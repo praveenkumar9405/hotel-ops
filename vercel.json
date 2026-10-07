@@ -2,7 +2,8 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "services": {
     "backend": {
-      "root": "hotel-crud-app/backend"
+      "root": "hotel-crud-app/backend",
+      "entrypoint": "server.js"
     },
     "frontend": {
       "root": "hotel-crud-app/frontend"

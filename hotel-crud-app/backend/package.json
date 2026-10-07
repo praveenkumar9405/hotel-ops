@@ -1,7 +1,7 @@
 {
   "name": "hotel-crud-backend",
   "version": "1.0.0",
-  "description": "Production-ready Hotel Management Backend with Express and Native PostgreSQL",
+  "description": "Hotel management API backend with Express and PostgreSQL",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
